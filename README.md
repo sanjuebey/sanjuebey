@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on ReactJS, Express.js and Next.js.
-- ⚡ I have done projects using Angular (front-end) and PHP (back-end).
+- ⚡ I have done projects using Angular (front-end), PHP (back-end) and MySQL.
 - 🌱 I’m currently learning Data science using R and Python
 - 👯 I’m looking to collaborate on Web development and Data science projects
 - 💬 Ask me about web development, data science or anything else
