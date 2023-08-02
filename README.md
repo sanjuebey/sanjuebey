@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ReactJS, Express.js and Next.js.
+- 🔭 I’m currently working on ReactJS, Express.js, Next.js, Node.js.
 - ⚡ I have done projects using Angular (front-end), PHP (back-end) and MySQL.
 - 🌱 I’m currently learning Data science using R and Python
 - 👯 I’m looking to collaborate on Web development and Data science projects
